@@ -16,9 +16,6 @@ transform = transforms.Compose([
 ])
 
 
-# It's not a language model, so it's not going to know
-# the names of the classes, we will just link them later on.
-
 full_dataset = datasets.ImageFolder(DATASET_PATH, transform=transform)
 
 print(f"Dataset name: PlantVillage Resized")
