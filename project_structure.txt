@@ -1,0 +1,24 @@
+Jul-17-Leaf-Disease-Detection-API
+│
+├── app
+│    ├── __init__.py
+│    ├── config.py
+│    ├── main.py
+│    ├── ml_model.py
+│    └── models.py
+├── db_scripts
+│    └── seed_db.py
+├── public
+│    ├── index.html
+│    └── script.js
+├── run.py
+├── training
+│    ├── prepare_data.py
+│    └── train_model.py
+└── utils
+    ├── __init__.py
+    ├── check.py
+    └── smart_sleep.py
+
+
+6 directories, 14 files

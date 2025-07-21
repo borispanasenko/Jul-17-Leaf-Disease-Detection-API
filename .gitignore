@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+venv/
+models/*
+!models/.gitkeep
+data/*
+!data/.gitkeep
+!data/diseases_data.py
+!data/PlantDisease/.gitkeep
+uploads/*
+!uploads/.gitkeep
+*.db
+.env
+.idea/
+*.log
+instance/
+migrations/

@@ -1,0 +1,2 @@
+tree -a -I '__pycache__|*.pyc|*.pyo|*.pyd|venv|leaf-api|migrations|instance|*.db|uploads|models|data|archive|.env|.idea|*.swp|*.swo|.DS_Store|*.log|tmp|temp|*.tmp|.pytest_cache|*.bak|*.orig|A4|tree.txt|.gitignore'
+tree -a -I '__pycache__|archive'
